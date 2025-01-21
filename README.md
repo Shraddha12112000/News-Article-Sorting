@@ -1,3 +1,4 @@
+## Web App Deployed Link : https://news-article-sorting-ineuron.onrender.com/
 # 📰 News Article Sorting
 This project is part of ineuron.ai internship. 
 A machine learning project to classify news articles into predefined categories like business, 
